@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2C7E-A8B6
+
+ Directory of C:\Users\amarnath reddy\Desktop\MyProject
+
+02/20/2018  06:39 PM    <DIR>          .
+02/20/2018  06:39 PM    <DIR>          ..
+02/20/2018  06:39 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     638,545,920 bytes free
